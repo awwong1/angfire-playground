@@ -1,0 +1,9 @@
+{
+  "firebase": "angfire-playground",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
