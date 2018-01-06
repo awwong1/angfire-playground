@@ -1,5 +1,7 @@
 # angfire-playground
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/awwong1/angfire-playground.svg)](https://greenkeeper.io/)
+
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 1.0.0.
 
